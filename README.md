@@ -6,4 +6,6 @@ A customer receives 2 points for every dollar spent over $100 in each transactio
 
 Added sample data in the data folder.
 Sample output for the code.
-<img width="591" height="332" alt="image" src="https://github.com/user-attachments/assets/4db9372f-c5f7-417b-bd29-b2064da873e8" />
+
+<img width="727" height="352" alt="image" src="https://github.com/user-attachments/assets/a268af65-8c74-4b06-b72a-4268bb4ff5de" />
+
