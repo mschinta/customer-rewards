@@ -1,41 +1,41 @@
 export const mockUsersData = [
   {
     customerName: 'Madhava',
-    purchaseDate: 'Jul',
+    purchaseDate: 'Sep',
     amount: 140,
   },
   {
     customerName: 'Madhava',
-    purchaseDate: 'Jul',
+    purchaseDate: 'Sep',
     amount: 160,
   },
   {
     customerName: 'Madhava',
-    purchaseDate: 'Aug',
+    purchaseDate: 'Oct',
     amount: 120.9,
   },
   {
     customerName: 'Srini',
-    purchaseDate: 'Aug',
+    purchaseDate: 'Oct',
     amount: 100,
   },
    {
     customerName: 'Srini',
-    purchaseDate: 'Sep',
+    purchaseDate: 'Nov',
     amount: 90,
   },
   {
     customerName: 'kumar',
-    purchaseDate: 'Aug',
+    purchaseDate: 'Oct',
     amount: 60,
   },
   {
     customerName: 'kumar',
-    purchaseDate: 'Sep',
+    purchaseDate: 'Nov',
     amount: 50,
   },
   {
     customerName: 'vish',
-    purchaseDate: 'Sep',
+    purchaseDate: 'Nov',
     amount: 50,
   }];
